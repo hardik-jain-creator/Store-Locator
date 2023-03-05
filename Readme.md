@@ -1,0 +1,1 @@
+Build a web app that allows us to add our store on map using mapbox api.
